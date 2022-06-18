@@ -17,6 +17,18 @@
         ],
         "key": "STEP_1"
     },
+
+
+    {
+        "keywords":  [
+            "hola pato",
+            "pato",
+        ],
+        "key": "STEP_1001"
+    },
+
+
+
     {
         "keywords":  [
             "cursos",
